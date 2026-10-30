@@ -4,8 +4,8 @@ I build practical, privacy-first software for everyday work.
 
 ## Featured projects
 
-- **Zestok** - Self-hosted inventory management for Windows and Android, with stock tracking, reports, and PIN/2FA security.
-- **Expenso** - An offline-first Android expense tracker built with Flutter. Track income, spending, balances, and reports locally, with optional cloud backup.
+- **Zestok** ([Website](https://zestok.vercel.app)) - Self-hosted inventory management for Windows and Android, with stock tracking, reports, and PIN/2FA security.
+- **Expenso** ([Website](https://expenso-website.vercel.app)) - An offline-first Android expense tracker built with Flutter. Track income, spending, balances, and reports locally, with optional cloud backup.
 
 ## Focus
 
